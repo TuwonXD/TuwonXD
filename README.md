@@ -1,20 +1,16 @@
-<h1 align="center">Hey there! I'm Samuel 👋</h1>
+<h1 align="center">Welcome, I'm Samuel</h1>
 
 <p align="center">
   <em>CS Student · Researcher · Builder</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-username">
+  <a href="https://linkedin.com/in/imsamuelsmh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="imsamuelsmh@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Add more links below as needed -->
-  <!-- <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a> -->
 </p>
 
 ---
